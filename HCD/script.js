@@ -246,3 +246,4 @@ function stop() {
     audio.currentTime = 0;
     playPauseBTN.innerHTML = 'Play &#9658;';
 }
+//end
