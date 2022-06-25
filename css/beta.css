@@ -42,7 +42,7 @@ nav .ul li a {
     line-height: 80px;
     padding: 0 20px;
     box-sizing: border-box;
-    color: #fff;
+    color: #ececec;
     font-weight: 600;
     text-decoration: none;
     text-transform: uppercase;
@@ -226,7 +226,7 @@ li.dropdown {
         line-height: 25px !important;
     }
     .dropdown-content {
-        border: 1px solid white;
+        border: 1px solid rgb(219, 219, 219);
     }
     /* nav .ul {
         border: 1px solid #ffffff88 !important;
@@ -247,10 +247,11 @@ li.dropdown {
         display: block;
     }
     .ul {
+        border-left: 1px solid white;
         position: fixed;
         width: 200px;
         height: 100vh;
-        background: #0000008b;
+        background: #000000bf;
         top: 80px;
         right: -100%;
         text-align: center;
