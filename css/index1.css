@@ -354,7 +354,7 @@ p {
     margin: 0%;
     position: fixed;
     left: -100%;
-    transition: 0.5s;
+    transition: 0.2s;
     transition-timing-function: cubic-bezier(0, 0, 0, 0);
     top: 100px;
 }
@@ -843,7 +843,7 @@ i.fa {
 }
 
 .endsky {
-    margin-top: -100vh;
+    margin-top: -96vh;
 }
 
 

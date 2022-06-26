@@ -234,6 +234,14 @@
     .alink .fie1 {
         margin: 10% 0 0 0;
     }
+    #le legend {
+        text-align: center;
+        margin-left: 0%;
+    }
+    #chan legend {
+        text-align: center;
+        margin-right: 0%;
+    }
     #chan {
         margin-left: 0px;
     }
