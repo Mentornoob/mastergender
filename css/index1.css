@@ -58,6 +58,10 @@ p {
     color: rgb(64, 64, 64);
 }
 
+#myDIV {
+    display: none;
+}
+
 #myBtn {
     display: none;
     position: fixed;
